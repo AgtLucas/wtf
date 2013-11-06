@@ -10,10 +10,10 @@ module.exports = function(grunt) {
 
     // Define paths
     meta: {
-        srcPathSass: 'src/assets/sass/',
-        srcPathJS: 'src/assets/js/',
-        buildPathCSS: 'src/build/css/',
-        buildPathJS: 'src/build/js/'
+        srcPathSass: 'assets/sass/',
+        srcPathJS: 'assets/js/',
+        buildPathCSS: 'build/css/',
+        buildPathJS: 'build/js/'
     },
 
     // $TASK = Sass
